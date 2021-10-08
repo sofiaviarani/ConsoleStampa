@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sofia.viarani\\source\\repos\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj": {}
+    "Z:\\venturini.gianmarco\\TecnProg\\2021-10-08\\Progetto-StampaConsole\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sofia.viarani\\source\\repos\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj": {
+    "Z:\\venturini.gianmarco\\TecnProg\\2021-10-08\\Progetto-StampaConsole\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sofia.viarani\\source\\repos\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
+        "projectUniqueName": "Z:\\venturini.gianmarco\\TecnProg\\2021-10-08\\Progetto-StampaConsole\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
         "projectName": "ConsoleStampa",
-        "projectPath": "C:\\Users\\sofia.viarani\\source\\repos\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
-        "packagesPath": "C:\\Users\\sofia.viarani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sofia.viarani\\source\\repos\\ConsoleStampa\\ConsoleStampa\\obj\\",
+        "projectPath": "Z:\\venturini.gianmarco\\TecnProg\\2021-10-08\\Progetto-StampaConsole\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
+        "packagesPath": "C:\\Users\\gianmarco.venturini\\.nuget\\packages\\",
+        "outputPath": "Z:\\venturini.gianmarco\\TecnProg\\2021-10-08\\Progetto-StampaConsole\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sofia.viarani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gianmarco.venturini\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

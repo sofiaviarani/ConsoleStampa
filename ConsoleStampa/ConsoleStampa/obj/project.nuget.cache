@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GMHWLpronuyKQQSkAvnFJIDjrI2ms2CxeyERJnTHdyupmt2+RvDaHyuWXi90rzzhga3Kt0OJihGYR65EJjoOfA==",
+  "dgSpecHash": "D4v9NJJQBty6nE0RqxB23qdR7gFmLOiPMU3Vlqu9gZIfAuPL+QNAnDXYA1h7KDmCyaP1liTvpS9zfMQ5aJl5fA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sofia.viarani\\source\\repos\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
+  "projectFilePath": "Z:\\venturini.gianmarco\\TecnProg\\2021-10-08\\Progetto-StampaConsole\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sofia.viarani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+    "C:\\Users\\gianmarco.venturini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
   ],
   "logs": []
 }

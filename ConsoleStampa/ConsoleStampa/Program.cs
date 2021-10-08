@@ -6,7 +6,8 @@ namespace ConsoleStampa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("sofia World!");
+            Console.WriteLine("Gianmarco world");
+            
         }
     }
 }

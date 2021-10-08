@@ -1,0 +1,13 @@
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\bin\Debug\netcoreapp3.1\ConsoleStampa.exe
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\bin\Debug\netcoreapp3.1\ConsoleStampa.deps.json
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\bin\Debug\netcoreapp3.1\ConsoleStampa.runtimeconfig.json
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\bin\Debug\netcoreapp3.1\ConsoleStampa.runtimeconfig.dev.json
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\bin\Debug\netcoreapp3.1\ConsoleStampa.dll
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\bin\Debug\netcoreapp3.1\ConsoleStampa.pdb
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\netcoreapp3.1\ConsoleStampa.csproj.AssemblyReference.cache
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\netcoreapp3.1\ConsoleStampa.AssemblyInfoInputs.cache
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\netcoreapp3.1\ConsoleStampa.AssemblyInfo.cs
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\netcoreapp3.1\ConsoleStampa.csproj.CoreCompileInputs.cache
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\netcoreapp3.1\ConsoleStampa.dll
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\netcoreapp3.1\ConsoleStampa.pdb
+C:\Users\sofia.viarani\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\netcoreapp3.1\ConsoleStampa.genruntimeconfig.cache
